@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: DIPC_01
+Build-Jdk: 13.0.2
+Implementation-Title: spring-glee-o-meter
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: net.reliqs
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-glee-o-meter
+Created-By: Maven Integration for Eclipse
+
